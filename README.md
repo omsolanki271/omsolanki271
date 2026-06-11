@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Java Backend Developer | Spring Boot Developer | Backend Enthusiast
+Java Backend Developer | Spring Boot Developer | REST APIs | MySQL
 </h3>
 
 ---
